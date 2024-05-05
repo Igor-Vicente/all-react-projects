@@ -1,8 +1,8 @@
 # React - The Complete Guide
 
-# 1º: basics of react with typescript
+## 1º basics of react with typescript
 
-![](/docs/img/overviewFundamentals.png)
+![](/docs/imgs/overviewFundamentals.png)
 
 - bundlers & compilers
 - components
